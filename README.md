@@ -1,0 +1,2 @@
+# GalleryCoin
+GalleryCoin's information
